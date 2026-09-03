@@ -4,9 +4,9 @@ int main(void)
 	int i = 10;
 	char c = 69;
 	float f = 12.3;
-	printf("iÀÇ ÁÖ¼Ò: %u\n", &i);
-	printf("cÀÇ ÁÖ¼Ò: %u\n", &c);
-	printf("fÀÇ ÁÖ¼Ò: %u\n", &f);
+	printf("iì˜ ì£¼ì†Œ: %u\n", &i);
+	printf("cì˜ ì£¼ì†Œ: %u\n", &c);
+	printf("fì˜ ì£¼ì†Œ: %u\n", &f);
 
 	return 0;
 }
