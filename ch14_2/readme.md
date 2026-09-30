@@ -31,3 +31,6 @@
 
 ## 15_1번 문제 실행결과 <img width="942" height="600" alt="image" src="https://github.com/user-attachments/assets/7e03f60d-7853-450e-9ea1-1069a2d1a32e" />
 
+## 15_2번 문제 실행결과 <img width="630" height="234" alt="image" src="https://github.com/user-attachments/assets/2dc4eb3f-d94e-40ba-ba8b-4d1b7c6ef82a" />
+
+
