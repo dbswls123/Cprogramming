@@ -27,3 +27,7 @@
 #실습과제 5
 ## 실행결과
 
+# 도전과제 
+
+## 15_1번 문제 실행결과 <img width="942" height="600" alt="image" src="https://github.com/user-attachments/assets/7e03f60d-7853-450e-9ea1-1069a2d1a32e" />
+
