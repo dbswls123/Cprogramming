@@ -12,3 +12,7 @@
 3. **2개 이상의 값을 반환할 때**
 
    * C언어의 `return`은 하나의 값만 반환할 수 있으므로, **여러 변수의 주소를 전달하여 여러 결과를 반환**하기 위해 사용한다.
+
+#실습과제 2
+
+## 실행결과 <img width="378" height="263" alt="image" src="https://github.com/user-attachments/assets/9d17d63a-9322-4ba7-b8c1-9af5bb217dd1" />
