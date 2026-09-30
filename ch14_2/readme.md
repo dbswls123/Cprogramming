@@ -33,4 +33,7 @@
 
 ## 15_2번 문제 실행결과 <img width="630" height="234" alt="image" src="https://github.com/user-attachments/assets/2dc4eb3f-d94e-40ba-ba8b-4d1b7c6ef82a" />
 
+## 15_5번 문제 실행결과 <img width="698" height="388" alt="image" src="https://github.com/user-attachments/assets/bcb87fb0-f355-4297-80fc-c52cf63d74b0" />
+
+
 
