@@ -18,10 +18,10 @@
 ## 실행결과 <img width="378" height="263" alt="image" src="https://github.com/user-attachments/assets/9d17d63a-9322-4ba7-b8c1-9af5bb217dd1" />
 
 #실습과제 3
-## 실행결과 <img width="710" height="542" alt="image" src="https://github.com/user-attachments/assets/463e0982-b243-476e-9b36-1ebc0d8da0e1" />
+## 실행결과 <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/463e0982-b243-476e-9b36-1ebc0d8da0e1" />
 
 #실습과제 4
-## 실행결과 <img width="800" height="194" alt="image" src="https://github.com/user-attachments/assets/7cd0e789-253b-4a12-a4d4-135d09b1dedd" />
+## 실행결과 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7cd0e789-253b-4a12-a4d4-135d09b1dedd" />
 
 
 #실습과제 5
@@ -30,11 +30,11 @@
 
 # 도전과제 
 
-## 15_1번 문제 실행결과 <img width="942" height="600" alt="image" src="https://github.com/user-attachments/assets/7e03f60d-7853-450e-9ea1-1069a2d1a32e" />
+## 15_1번 문제 실행결과 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7e03f60d-7853-450e-9ea1-1069a2d1a32e" />
 
-## 15_2번 문제 실행결과 <img width="630" height="234" alt="image" src="https://github.com/user-attachments/assets/2dc4eb3f-d94e-40ba-ba8b-4d1b7c6ef82a" />
+## 15_2번 문제 실행결과 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/2dc4eb3f-d94e-40ba-ba8b-4d1b7c6ef82a" />
 
-## 15_5번 문제 실행결과 <img width="698" height="388" alt="image" src="https://github.com/user-attachments/assets/bcb87fb0-f355-4297-80fc-c52cf63d74b0" />
+## 15_5번 문제 실행결과 <img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/bcb87fb0-f355-4297-80fc-c52cf63d74b0" />
 
 
 
