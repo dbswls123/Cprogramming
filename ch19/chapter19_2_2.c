@@ -4,7 +4,7 @@
 void A(void* ptr);
 
 int main(void){
-    int num = 10.123;
+    int num = 10;
 
     A(&num);
 
