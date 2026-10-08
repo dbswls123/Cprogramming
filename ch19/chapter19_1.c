@@ -1,24 +1,25 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int calculate(int (*A)(int, int), int a, int b);
-int sub(int a, int b);
-int add(int a, int b);
-int main(void) {
-    printf("덧셈 결과: %d\n", calculate(add, 10, 5));
-    printf("뺄셈 결과: %d\n", calculate(sub, 10, 5));
+int Add(int a, int b);
+int Sub(int a, int b);
+void calculate(int a, int b, int(*A)(int, int));
+
+int main(void){
+    calculate(10, 5, Add);
+    calculate(10, 5, Sub);
 
     return 0;
 }
 
-int calculate(int (*A)(int, int), int a, int b) {
-    return A(a, b);
+void calculate(int a, int b, int (*A)(int, int)) {
+    printf("결과: %d\n", A(a, b));
 }
 
-int sub(int a, int b) {
-    return a - b;
-}
-
-int add(int a, int b) {
+int Add(int a, int b){
     return a + b;
+}
+
+int Sub(int a, int b){
+    return a - b;
 }
