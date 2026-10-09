@@ -147,4 +147,8 @@ int num = 10;
 ## 실행결과
 <img width="549" height="206" alt="image" src="https://github.com/user-attachments/assets/094bac61-c18c-4211-81e0-a2ac9a196ade" />
 
+# 실습과제 4
+## 실행결과(20장 2번 문제)
+<img width="197" height="150" alt="image" src="https://github.com/user-attachments/assets/6d3fec5a-d15d-4b94-8b69-b7747ac4a289" />
+
 
