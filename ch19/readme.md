@@ -155,6 +155,7 @@ int num = 10;
 <img width="400" height="167" alt="image" src="https://github.com/user-attachments/assets/aa20d384-aa2e-44ac-af6d-9dfa5647f9f9" />
 
 ## 실행결과(20장 6번 문제)
+<img width="281" height="286" alt="image" src="https://github.com/user-attachments/assets/57254ec5-4e8f-4fe1-8453-fb5c35736100" />
 
 
 
