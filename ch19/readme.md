@@ -151,4 +151,10 @@ int num = 10;
 ## 실행결과(20장 2번 문제)
 <img width="197" height="150" alt="image" src="https://github.com/user-attachments/assets/6d3fec5a-d15d-4b94-8b69-b7747ac4a289" />
 
+## 실행결과(20장 5번 문제)
+<img width="400" height="167" alt="image" src="https://github.com/user-attachments/assets/aa20d384-aa2e-44ac-af6d-9dfa5647f9f9" />
+
+## 실행결과(20장 6번 문제)
+
+
 
